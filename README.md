@@ -1,4 +1,4 @@
-# c-exam
+# cn-exam
 
 ## Introduction
 
