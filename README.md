@@ -1,13 +1,6 @@
-# cn-exam
+# Computer Networking Exams
 
 ## Introduction
 
-Questions for Computer Networks Final/Midterm Exams. Each problem has its sepcific folder and by customizing `main.tex` you can create your exam.
-
-## Requirements
-
-Following package is required for loading problems into `main.tex`.
-
-```sh
-tlmgr install tagging minted xepersian bdid
-```
+Computer networking exams at Amirkabir contains some theoretical problems and more than that,
+problems that need calculation and math. Also, there maybe an exam from its laboratory.
